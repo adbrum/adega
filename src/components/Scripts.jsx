@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Script = () => {
+export const Scripts = () => {
   return (
     <>
       {/* jquery plugins here*/}
